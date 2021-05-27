@@ -1,0 +1,25 @@
+{
+  "name": "assessment_veirta-informatika",
+  "version": "1.0.0",
+  "description": "Prasetya Rinaldi",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prasetyarinaldii/assessment_veirta-informatika.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prasetyarinaldii/assessment_veirta-informatika/issues"
+  },
+  "homepage": "https://github.com/prasetyarinaldii/assessment_veirta-informatika#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "express": "^4.17.1"
+  }
+}
