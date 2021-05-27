@@ -3,8 +3,8 @@
 ## Prasetya Rinaldi
 
 
-* **instruction:**
 ---
+* **instruction:**
 1. access API (in email) and create a new field ("geometry_locs")
 2. asign/input the data in the new field based on the field ("coordinates")
 ---
@@ -66,8 +66,8 @@
   ```
 
 
-* **steps to run this application:**
 ---
+* **steps to run this application:**
 1. $ npm install
 2. $ npm start
 3. open browser/postman to hit 'http://localhost:3030/'
