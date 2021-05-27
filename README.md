@@ -1,4 +1,4 @@
-# assessment_veirta-informatika
+# assessment_verita-informatika
 
 ## Prasetya Rinaldi
 
